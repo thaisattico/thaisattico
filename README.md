@@ -10,7 +10,7 @@ Médica veterinária em transição de carreira para dados, com foco em **Analyt
 
 ## 🛠️ Stack
 
-`SQL` `Python` `DBeaver` `VSCode`
+`SQL` `SQLite` `DBeaver` `VSCode` `Python`
 
 ## 📊 Projetos em destaque
 
