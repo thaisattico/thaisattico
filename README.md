@@ -8,11 +8,11 @@
   Veterinária em transição para Dados • Construindo projetos e aprendendo todos os dias 🚀
 </p>
 
-- 🔭 Atualmente construindo meu portfólio em dados
-- 🌱 Estudando SQL e Python
-- ✈️ Grande interesse em dados no setor aéreo
-- 🗣️ Inglês em progresso (A2/B1)
-- 💬 Aberta a conversar sobre transição de carreira para tech, dados e estudos
+- 🚀 Construindo meu portfólio em dados
+- 🛠️ Desenvolvendo projetos com SQL e Python
+- ✈️ Interesse em Dados aplicados à aviação
+- 📚 Inglês em desenvolvimento (A2/B1)
+- 🤝 Aberta a oportunidades, networking e colaboração em projetos de dados
 
 ## 🛠️ Stack
 
