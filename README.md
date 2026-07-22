@@ -1,6 +1,12 @@
-# Olá! Sou a Thais👋
+<h1 align="center">Thais Attico</h1>
 
-Médica veterinária em transição de carreira para dados, com foco em **Analytics Engineering**!
+<p align="center">
+  <strong>Analytics Engineering</strong> • SQL • Python 
+</p>
+
+<p align="center">
+  Veterinária em transição para Dados • Construindo projetos e aprendendo todos os dias 🚀
+</p>
 
 - 🔭 Atualmente construindo meu portfólio em dados
 - 🌱 Estudando SQL e Python
