@@ -22,7 +22,7 @@ Bot desenvolvido em equipe para o Tech Girls Challenge #1, que consome notícias
 ### ✈️ Análise de Dados da Aviação Civil (ANAC)
 Projeto de portfólio que consolida e analisa dados públicos da ANAC, incluindo modelagem dimensional (star schema) e uma base de voos regulares (VRA) para análises de cancelamento, atraso e ocupação de voos.
 Tecnologias: SQLite, Python
-🔗 [Repositório]
+🔗 [Repositório](https://github.com/thaisattico/projeto-anac)
 
 ## 📫 Contato
 
