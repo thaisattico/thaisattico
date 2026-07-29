@@ -1,18 +1,17 @@
-<h1 align="center">Thais Attico</h1>
+<h1 align="center">✨Seja bem vindo✨ </h1>
 
 <p align="center">
   <strong>Analytics Engineering</strong> • SQL • Python 
 </p>
 
 <p align="center">
-  Veterinária em transição para Dados • Construindo projetos e aprendendo todos os dias 🚀
+  Veterinária em transição para Dados • Construindo projetos e aprendendo todos os dias
 </p>
 
-- 🚀 Construindo meu portfólio em dados
-- 🛠️ Desenvolvendo projetos com SQL e Python
-- ✈️ Interesse em Dados aplicados à aviação
-- 📚 Inglês em desenvolvimento (A2/B1)
-- 🤝 Aberta a oportunidades, networking e colaboração em projetos de dados
+- Construindo meu portfólio em dados
+- Desenvolvendo projetos com SQL e Python
+- Interesse em Dados aplicados à aviação
+- Aberta a oportunidades, networking e colaboração em projetos de dados
 
 ## 🛠️ Stack
 
@@ -32,5 +31,5 @@ Bot desenvolvido em equipe para o Tech Girls Challenge #1, que consome notícias
 
 ## 📫 Contato
 
-- LinkedIn: `https://www.linkedin.com/in/thaisattico/`
-- Email: `contato.thaisattico@gmail.com`
+- [LinkedIn](https://www.linkedin.com/in/thaisattico/)
+- [Email](contato.thaisattico@gmail.com)
