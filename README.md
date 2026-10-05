@@ -174,7 +174,7 @@ Bot desenvolvido em Python para a comunidade Tech Girls, com automações relaci
 </a>
 
 
-<a href="[www.linkedin.com/in/thaisattico](https://www.linkedin.com/in/thaisattico/)">
+<a href="https://www.linkedin.com/in/thaisattico/">
 <img src="https://img.shields.io/badge/LinkedIn-2E6B45?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
