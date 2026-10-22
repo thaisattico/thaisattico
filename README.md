@@ -169,8 +169,8 @@ Bot desenvolvido em Python para a comunidade Tech Girls, com automações relaci
 
 <br>
 
-<a href="https://github.com/thaisattico">
-<img src="https://img.shields.io/badge/GitHub-2E6B45?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:contato.thaisattico@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2E6B45?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 
