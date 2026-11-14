@@ -47,43 +47,42 @@ Aberta a oportunidades, networking e colaboração em projetos de dados.
 
 ---
 
-<div align="center">
 
-## STACK
+<h2 align="center">STACK</h2>
 
-<br>
+<table align="center" width="100%">
+  <tr>
+    <th align="center" width="50%">DATA</th>
+    <th align="center" width="50%">DATABASES</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SQL-2E6B45?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-2E6B45?style=for-the-badge&logo=python&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-2E6B45?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-2E6B45?style=for-the-badge&logo=sqlite&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <th align="center">DATA VISUALIZATION</th>
+    <th align="center">TOOLS</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Power_BI-2E6B45?style=for-the-badge&logo=powerbi&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-2E6B45?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-2E6B45?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/VS_Code-2E6B45?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+      <img src="https://img.shields.io/badge/Notion-2E6B45?style=for-the-badge&logo=notion&logoColor=white">
+      <img src="https://img.shields.io/badge/Trello-2E6B45?style=for-the-badge&logo=trello&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-### DATA
-
-<img src="https://img.shields.io/badge/SQL-2E6B45?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-2E6B45?style=flat-square&logo=python&logoColor=white"/>
-
-<br><br>
-
-### DATABASES
-
-<img src="https://img.shields.io/badge/PostgreSQL-2E6B45?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-2E6B45?style=flat-square&logo=sqlite&logoColor=white"/>
-
-<br><br>
-
-### DATA VISUALIZATION
-
-<img src="https://img.shields.io/badge/Power_BI-2E6B45?style=flat-square&logo=powerbi&logoColor=white"/>
-
-<br><br>
-
-### TOOLS
-
-<img src="https://img.shields.io/badge/Git-2E6B45?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-2E6B45?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-2E6B45?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-2E6B45?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-2E6B45?style=flat-square&logo=trello&logoColor=white"/>
-
-</div>
-
-<br>
 
 ---
 
