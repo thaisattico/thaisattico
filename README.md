@@ -2,7 +2,7 @@
 
 # ✨Seja bem vindo✨
 
-### Analytics Engineer · Data
+### Data Analytics · Data
 
 </div>
 
